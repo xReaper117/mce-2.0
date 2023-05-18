@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "COSO",
+    name: "----",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "EXISTE NI IDEA DE QUE OTRA COSA HAGA",
+    role: "inexistente",
     bio: "...",
     email: "sebastian.alamos22@gmail.com",
     linkedin: "N-A",
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "MCE",
     description: "welcome to the Musical Culture of England!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
